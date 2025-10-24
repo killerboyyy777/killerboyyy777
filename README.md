@@ -4,8 +4,8 @@ ltc: ltc1qjr49nr028mcajlt7prmmnqnjh0552qjj90zdq4
 btc: bc1qmkv939k2wqsej657cxj25ppwqdh65y2umnv3gg
 xmr: 82oJRDdiSWWbem3HiYx7ZdDdiPkYQAW4LaGNHpNcJ9DCendQ3XcxHNYQiRMtfghYtSMmARPGqKe2ddSrhtjviTraEyGwgZ2
 ```
-'''
+```
 For Business related Questions contact me on Steam or Discord:
 steamcommunity.com/id/klb777
 DC: killerboyyy777
-'''
+```
