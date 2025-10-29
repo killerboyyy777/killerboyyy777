@@ -9,3 +9,4 @@ For Business related Questions:
 steamcommunity.com/id/klb777
 Discord: killerboyyy777
 ```
+![Metrics](/github-metrics.svg)
